@@ -7,3 +7,4 @@
 *.zip
 *.log
 **/.ipynb_checkpoints
+**/GOT.egg-info
