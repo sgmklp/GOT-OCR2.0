@@ -1,0 +1,9 @@
+**/GOT_weights
+**/test_*
+**/__pycache__
+.vscode
+/Env_*
+*.http
+*.zip
+*.log
+**/.ipynb_checkpoints
